@@ -11,6 +11,8 @@ alias h='history'
 alias hg='history | grep'
 alias e='env'
 alias E='env | grep ENV'
+alias bp='vi ~/.bash_profile'
+alias sp='source ~/.bash_profile'
 
 # git
 alias gs='git status'
