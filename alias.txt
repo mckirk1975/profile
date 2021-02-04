@@ -34,7 +34,8 @@ alias gcl='git clone'
 alias gst='git stash'
 alias gsl='git stash list'
 alias gsa='git stash apply'
-alias m='git checkout master'
+alias gm='git checkout master'
+alias gmm='git merge master'
 
 # maven
 alias mi='mvn install'
